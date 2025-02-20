@@ -1,6 +1,10 @@
 
 # LeetCode 🧑‍💻 - 30 Days of JavaScript 🎯
 
+Leetcode Link - https://leetcode.com/studyplan/30-days-of-javascript/
+
+30 day challenge topics:
+
 Closures
 
 •	Day 01 : Create Hello World Function
