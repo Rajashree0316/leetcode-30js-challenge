@@ -1,8 +1,6 @@
 
 # LeetCode 🧑‍💻 - 30 Days of JavaScript 🎯
 
-A brief description of what this project does and who it's for
-
 Closures
 
 •	Day 01 : Create Hello World Function
